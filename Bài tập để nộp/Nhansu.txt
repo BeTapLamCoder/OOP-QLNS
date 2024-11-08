@@ -1,0 +1,20 @@
+{
+  "Id": "NS",
+  "Name": "Nh\u00E2n s\u1EF1",
+  "Manager": {
+    "Id": "1",
+    "Name": "DANH",
+    "Birth": "2005-09-22T23:42:39",
+    "Gmail": "nguyedanh0922",
+    "Phone": "0932740815",
+    "Iddepartment": "NS",
+    "Gender": "Male"
+  },
+  "Listemployees": [
+    {
+      "Id": "2",
+      "Name": "HUY",
+      "Iddepartment": "NS"
+    }
+  ]
+}

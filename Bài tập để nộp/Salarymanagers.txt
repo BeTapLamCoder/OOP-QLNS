@@ -1,0 +1,14 @@
+[
+  {
+    "Id": "1",
+    "Name": "DANH",
+    "Position": "Manager",
+    "Iddepartment": "NS",
+    "Increase": 0,
+    "Salary": 0,
+    "Bonus": 0,
+    "Dayoff": 0,
+    "Start": "2024-01-01T14:38:16",
+    "Total": 0
+  }
+]
